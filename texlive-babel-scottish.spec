@@ -5,8 +5,8 @@
 # catalog-license undef
 # catalog-version undef
 Name:		texlive-babel-scottish
-Version:	20131013
-Release:	9
+Version:	1.0g
+Release:	1
 Summary:	TeXLive babel-scottish package
 Group:		Publishing
 URL:		http://tug.org/texlive
