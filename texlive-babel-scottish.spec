@@ -5,9 +5,9 @@ Summary:	TeXLive babel-scottish package
 Group:		Publishing
 URL:		http://tug.org/texlive
 License:	http://www.tug.org/texlive/LICENSE.TL
-Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-scottish.r30289.tar.xz
-Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-scottish.doc.r30289.tar.xz
-Source2:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-scottish.source.r30289.tar.xz
+Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-scottish.r%{version}.tar.xz
+Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-scottish.doc.r%{version}.tar.xz
+Source2:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-scottish.source.r%{version}.tar.xz
 BuildArch:	noarch
 BuildRequires:	texlive-tlpkg
 Requires(pre):	texlive-tlpkg
