@@ -1,6 +1,6 @@
 Name:		texlive-babel-scottish
 Version:	30289
-Release:	1
+Release:	2
 Summary:	TeXLive babel-scottish package
 Group:		Publishing
 URL:		http://tug.org/texlive
